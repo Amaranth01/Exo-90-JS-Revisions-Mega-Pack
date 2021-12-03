@@ -12,7 +12,7 @@ maFonction();
 
 alert(d)
 
-let prenom = "John", nom = "Doe", age = 35;
+let prenom = "John"; let nom = "Doe"; let age = 35;
 
 alert ((10*5));
 alert ((10/2));
